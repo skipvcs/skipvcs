@@ -6,16 +6,39 @@ Aspiring SOC Analyst with a strong foundation in cybersecurity, triage, incident
 
 Key Skills 
 
-SIEM Platforms (Splunk, QRadar, Elastic), Log Analysis & Correlation, IDS/IPS Monitoring (Suricata, Snort), Endpoint Security Tools & Antivirus, Threat Detection & Alert Triage, Phishing Email Analysis, Malware Indicators & Basic Analysis (IDA Pro, Relyze, OllyDbg), Reverse Engineering of binaries, Vulnerability Scanning & Patch Tracking, Escalation & Incident Documentation, Ticketing Systems (ServiceNow, JIRA), Windows & Linux Administration, Networking (TCP/IP, DNS, HTTP/S, VPNs), Firewalls & Access Control Lists, OSINT Research for Threat Intelligence, Cloud Security Awareness (AWS, Azure), Python Scripting for Security Automation, Wireshark for PCAP, NMAP, VirusTotal & Threat Intelligence feeds, PowerShell & Bash Basics, Technical Documentation & Reporting, Technical Collaboration, People Leadership
+- SIEM Platforms (Splunk, QRadar, Elastic),
+- Log Analysis & Correlation,
+- IDS/IPS Monitoring (Suricata, Snort),
+- Endpoint Security Tools & Antivirus,
+- Threat Detection & Alert Triage,
+- Phishing Email Analysis,
+- Malware Indicators & Basic Analysis (IDA Pro, Relyze, OllyDbg),
+- Reverse Engineering of binaries,
+- Vulnerability Scanning & Patch Tracking,
+- Escalation & Incident Documentation,
+- Ticketing Systems (ServiceNow, JIRA),
+- Windows & Linux Administration,
+- Networking (TCP/IP, DNS, HTTP/S, VPNs),
+- Firewalls & Access Control Lists,
+- OSINT Research for Threat Intelligence,
+- Cloud Security Awareness (AWS, Azure),
+- Python Scripting for Security Automation,
+- Wireshark for PCAP,
+- NMAP,
+- VirusTotal & Threat Intelligence feeds,
+- PowerShell & Bash Basics,
+- Technical Documentation & Reporting,
+- Technical Collaboration,
+- People Leadership
 
 Training & Technical Experience
 
-•	Completed Linux and Windows Administration courses (TestOut) to build system hardening and troubleshooting skills
-•	Earned Python 3 Programmer certification (Codecademy), developing scripts to automate log parsing and security checks
-•	Applied OSINT techniques to collect and analyze publicly available data for threat research and simulated incident investigations.
-•	Used tools such as Wireshark, NMAP, and Suricata to monitor traffic, analyze alerts, and identify suspicious network activity.
-•	Conducted phishing email simulations and analyzed malicious payloads to practice identification of Indicators of Compromise (IOCs)
-•	Practiced vulnerability scanning and log analysis in lab environments to support incident triage and escalation workflows.
+- Completed Linux and Windows Administration courses (TestOut) to build system hardening and troubleshooting skills
+- Earned Python 3 Programmer certification (Codecademy), developing scripts to automate log parsing and security checks
+- Applied OSINT techniques to collect and analyze publicly available data for threat research and simulated incident investigations.
+- Used tools such as Wireshark, NMAP, and Suricata to monitor traffic, analyze alerts, and identify suspicious network activity.
+- Conducted phishing email simulations and analyzed malicious payloads to practice identification of Indicators of Compromise (IOCs)
+- Practiced vulnerability scanning and log analysis in lab environments to support incident triage and escalation workflows.
 
 
 <h2>👨‍💻 Certs & Certifications:</h2>
