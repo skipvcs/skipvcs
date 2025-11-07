@@ -6,8 +6,9 @@ Aspiring Cybersecurity Professional | Hands-On Projects & Cyber Defense
 
 Exploring the full spectrum of cybersecurity through hands-on labs, projects, and real-world simulations. Experienced in incident response, threat detection, log analysis, system administration, and Python scripting to automate security tasks. Passionate about applying technical skills to SOC operations, threat intelligence, cybersecurity engineering, and IT security roles. My GitHub showcases practical projects that demonstrate problem-solving, analytical thinking, and readiness to contribute to cybersecurity teams.
 
+<br>
 
-Key Skills 
+<h2>Key Skills</h2> 
 
 - SIEM Platforms (Splunk, QRadar, Elastic),
 - Log Analysis & Correlation,
@@ -34,14 +35,22 @@ Key Skills
 - Technical Collaboration,
 - People Leadership
 
-Training & Technical Experience
+<br>
 
+
+<h2>Training & Technical Experience<h2></h2>
+  
 - Completed Linux and Windows Administration courses (TestOut) to build system hardening and troubleshooting skills
+  
 - Earned Python 3 Programmer certification (Codecademy), developing scripts to automate log parsing and security checks
+  
 - Applied OSINT techniques to collect and analyze publicly available data for threat research and simulated incident investigations.
 - Used tools such as Wireshark, NMAP, and Suricata to monitor traffic, analyze alerts, and identify suspicious network activity.
 - Conducted phishing email simulations and analyzed malicious payloads to practice identification of Indicators of Compromise (IOCs)
 - Practiced vulnerability scanning and log analysis in lab environments to support incident triage and escalation workflows.
+
+
+<br>
 
 
 <h2>👨‍💻 Certs & Certifications:</h2>
@@ -63,6 +72,8 @@ Training & Technical Experience
   - Cybersecurity 101
   - cat linux.txt badge
  
+
+<br>
 
 
 <h2>📺 Popular YouTube Videos</h2>
