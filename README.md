@@ -2,7 +2,10 @@
 
 <h2>Brief Bio</h2>
 
-Aspiring SOC Analyst with a strong foundation in cybersecurity, triage, incident response, and system administration. I am skilled in monitoring security events, analyzing logs, and supporting investigations to identify and mitigate threats. Proficient with Python scripting to automate security tasks and enhance detection capabilities. I am eager to apply hands-on technical training and analytical skills to contribute to a Tier 1/2 SOC team and grow my career within cybersecurity defense operations.
+Aspiring Cybersecurity Professional | Hands-On Projects & Cyber Defense
+
+Exploring the full spectrum of cybersecurity through hands-on labs, projects, and real-world simulations. Experienced in incident response, threat detection, log analysis, system administration, and Python scripting to automate security tasks. Passionate about applying technical skills to SOC operations, threat intelligence, cybersecurity engineering, and IT security roles. My GitHub showcases practical projects that demonstrate problem-solving, analytical thinking, and readiness to contribute to cybersecurity teams.
+
 
 Key Skills 
 
