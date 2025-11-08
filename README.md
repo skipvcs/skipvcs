@@ -72,6 +72,9 @@ Exploring the full spectrum of cybersecurity through hands-on labs, projects, an
   - Cybersecurity 101
   - cat linux.txt badge
  
+- <b>Cornell University</b>
+  - Project Management
+ 
 
 <br>
 
